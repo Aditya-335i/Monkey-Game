@@ -17,6 +17,7 @@ function preload(){
   bananaImage = loadImage("banana.png");
   obstaceImage = loadImage("obstacle.png");
  
+  console.log("hi");
   
 }
 
